@@ -1,0 +1,81 @@
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\Dataton API.csproj.AssemblyReference.cache
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\Dataton API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\Dataton API.AssemblyInfoInputs.cache
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\Dataton API.AssemblyInfo.cs
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\Dataton API.csproj.CoreCompileInputs.cache
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\Dataton API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\Dataton API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\appsettings.json
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Dataton API.exe
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Dataton API.deps.json
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Dataton API.runtimeconfig.json
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Dataton API.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Dataton API.pdb
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\staticwebassets\msbuild.Dataton API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\staticwebassets\msbuild.build.Dataton API.props
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dataton API.props
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dataton API.props
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\scopedcss\bundle\Dataton API.styles.css
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\Dataton API.csproj.CopyComplete
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\Dataton API.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\refint\Dataton API.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\Dataton API.pdb
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\Dataton API.genruntimeconfig.cache
+C:\Users\abdis\source\repos\Dataton API\Dataton API\obj\Debug\net7.0\ref\Dataton API.dll
+C:\Users\abdis\source\repos\Dataton API\Dataton API\bin\Debug\net7.0\CsvHelper.dll
